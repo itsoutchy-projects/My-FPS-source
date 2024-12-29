@@ -1,4 +1,5 @@
 # My-FPS-source
+# SOURCE CODE IS MISSING!!!! I'm not updating this game anymore unless a miracle happens so uhh sorry
 The source code for My FPS
 
 Open source as long as you don't go against the rules listed  <a href="https://itsoutchy2.itch.io/my-fps">here</a>.
